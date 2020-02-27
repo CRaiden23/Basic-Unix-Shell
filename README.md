@@ -1,14 +1,9 @@
-Group:
-    Denton Group 5
-
-Members:
-    Steven Hurley
-    Aaron Hurley
-    Alex Luong
-    Oscar Garcia
-
-Organization:
-
+Program Description:
+    Group Project for CSCE 3600 to build a basic shell with several built in functions
+    Basic Shell with built in functions, myhistory, cd, exit, and path.
+    Shell also supports up to two pipes, redirects and any combination of the two.
+    Includes bonus "chprompt" command! NOW IN COLOR!
+        
     Steven Hurley | Piping and history
         Responsible for the creation and organization
             of the base shell as well as implementation of
@@ -32,12 +27,6 @@ Organization:
     Responsible for the implementation of redirection and creating a new path variable.
     Unfortunately I was unable to due so without causing errors that would make the shell unusable.
     I commented out the code to prevent this.
-
-Program Description:
-    Basic Shell with built in functions, myhistory, cd, exit, and path.
-    Shell also supports up to two pipes, redirects and any combination of the two.
-    Includes bonus "chprompt" command! NOW IN COLOR!
-        
         
 To Compile:
 "make"
